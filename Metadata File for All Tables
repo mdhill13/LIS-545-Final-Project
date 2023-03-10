@@ -1,0 +1,187 @@
+[
+  {
+    "TableName": "Credits",
+    "FieldName": "cast",
+    "Description": "lists the cast id number, character name, gender, and actor name for characters in the given film"
+  },
+    {
+    "TableName": "Credits",
+    "FieldName": "Crew",
+    "Description": "lists the id number, name, gender, and department for crew members of the given film"
+  },
+  {
+    "TableName": "Credits",
+    "FieldName": "ID",
+    "Description": "lists the ID number for the given film"
+  },
+{
+    "TableName": "Keywords",
+    "FieldName": "ID",
+    "Description": "lists the ID number for the given film"
+  },
+{
+    "TableName": "Keywords",
+    "FieldName": "Keywords",
+    "Description": "lists key words and phrases attached to the given film"
+  },
+{
+    "TableName": "Links",
+    "FieldName": "MovieID",
+    "Description": "lists the movie ID number within the data set"
+  },
+{
+    "TableName": "Links",
+    "FieldName": "IMDBID",
+    "Description": "lists the movie ID number for the given film in IMDB"
+  },
+{
+    "TableName": "Links",
+    "FieldName": "TMDBID",
+    "Description": "lists the movie ID number for the given in in TMDB"
+  },
+{
+    "TableName": "Links_small",
+    "FieldName": "MovieID",
+    "Description": "lists the movie ID number within the data set"
+  },
+{
+    "TableName": "Links_small",
+    "FieldName": "IMDBID",
+    "Description": "lists the movie ID number for the given film in IMDB"
+  },
+{
+    "TableName": "Links_small",
+    "FieldName": "TMDBID",
+    "Description": "lists the movie ID number for the given in in TMDB"
+  },
+{
+    "TableName": "Movies_Metadata",
+    "FieldName": "Adult",
+    "Description": "lists whether or not the given film is an adult film or not"
+  },
+{
+    "TableName": "Movies_Metadata",
+    "FieldName": "Belongs_to_Collection",
+    "Description": "if the given film is part of a franchise, this column will list the film franchise it is a part of"
+  },
+{
+    "TableName": "Movies_Metadata",
+    "FieldName": "Genres",
+    "Description": "this column lists the genres associated with the given film"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "homepage",
+    "Description": "includes the link to a movie's website if it has one"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "ID",
+    "Description": "lists the given film's ID number within the dataset"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "IMDB_ID",
+    "Description": "lists the given film's ID number within IMDB"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "Original_Language",
+    "Description": "lists the language the film was filmed in"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "Original_Title",
+    "Description": "lists the orignal title of the given film"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "Overview",
+    "Description": "lists a brief description of the given film's plot"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "Popularity",
+    "Description": "lists the box office record for how many people saw the film in theaters"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "Poster_path",
+    "Description": "lists a link to a jpg file of the given film's poster"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "Production_Companies",
+    "Description": "lists the production companies associated with the given film"
+  },
+{
+    "TableName": "Movies_Metadata",
+    "FieldName": "release_date",
+    "Description": "lists the theatrical release date for the given film"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "revenue",
+    "Description": "lists the revenue for the given film"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "Runtime",
+    "Description": "lists the runtime for the given film"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "spoken_languages",
+    "Description": "lists the spoken language options for the given film"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "status",
+    "Description": "lists whether the given film has been released or not prior to the creation of the data set"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "tagline",
+    "Description": "lists the tagline for the given film"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "title",
+    "Description": "lists the title of the given film"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "video",
+    "Description": "lists whether or not there is a video present of the given film with TMDB"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "vote_average",
+    "Description": "lists the average rating of the movie on TMDB"
+  },
+  {
+    "TableName": "Movies_Metadata",
+    "FieldName": "vote_count",
+    "Description": "lists the number of votes by users of TMDB"
+  },
+  {
+    "TableName": "Ratings_small",
+    "FieldName": "UserID",
+    "Description": "lists the ID number of the given TMDB user"
+  },
+  {
+    "TableName": "Ratings_small",
+    "FieldName": "MovieID",
+    "Description": "lists the ID number of the given film rated by the TMDB user"
+  },
+  {
+    "TableName": "Ratings_small",
+    "FieldName": "Rating",
+    "Description": "lists the rating of the given film on a scale of 1-5"
+  },
+  {
+    "TableName": "Ratings_small",
+    "FieldName": "timestamp",
+    "Description": "lists the timestamp of the given rating"
+  },
+]
