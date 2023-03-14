@@ -4,7 +4,7 @@
 
 *The document files all have information regarding the type of information found in the data set and ideas for future use*
  - The "LIS 545 - Term Project Assignment #1" file is a write up describing the data set included in this repository. 
- - The " LIS 545 - Term Project Repository" file is a write up describing the repository at UCSD that would be used to publish this data set. 
+ - The " LIS 545 - Term Project Repository Profile" file is a write up describing the repository at UCSD that would be used to publish this data set. 
  - The " LIS 545 - Additional Information" File is a write up on copyright information for the data set and the citation of the data set. 
 
 *The metadata file contains information regarding all of the metadata for the 6 csv files*
