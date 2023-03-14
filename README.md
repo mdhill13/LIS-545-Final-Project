@@ -3,7 +3,7 @@
 **This repository has 3 document files, 1 metadata file, and 6 csv files**
 
 *The document files all have information regarding the type of information found in the data set and ideas for future use*
- - The "LIS 545 - Term Project Assignment #1" file is a write up describing the data set included in this repository. 
+ - The "LIS 545 - Term Project Assignment #1" file is a write up describing "The Movies Dataset" files included in this repository. This dataset is a collection of files that include information related to a wide array of films released prior to the year 2017 such as cast & credit information, ratings, and other metadata for those films.
  - The " LIS 545 - Term Project Repository Profile" file is a write up describing the repository at UCSD that would be used to publish this data set. 
  - The " LIS 545 - Additional Information" File is a write up on copyright information for the data set and the citation of the data set. 
 
